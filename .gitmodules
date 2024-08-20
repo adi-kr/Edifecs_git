@@ -1,0 +1,3 @@
+[submodule "Edifecs_submodule"]
+	path = Edifecs_submodule
+	url = https://github.com/adi-kr/Edifecs_submodule.git
